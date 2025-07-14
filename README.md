@@ -35,7 +35,7 @@ Follow the steps below -
 cd $HOME
 
 # Clone this repository (use `gh repo clone adi1090x/termux-style` if you want to use the GitHub CLI)- 
-git clone https://github.com/adi1090x/termux-style
+git clone https://github.com/farelkecthe/termux-style
 
 # Change to termux-style dir -
 cd termux-style
